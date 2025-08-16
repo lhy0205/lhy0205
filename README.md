@@ -19,7 +19,7 @@ Here are some ideas to get you started:
   - Toeic 
     
 ## 📝Careers
-  - 2021.06 GCC Lab
+  - 2021.06 GDD Lab
   - 2022.03 ~ 2023.11 Iturtle Lab
   - 2023.06 SW중심대학 공동해커톤 2023
   - 2024.02 ~ 2024.09 DICE Lab 
