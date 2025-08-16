@@ -30,8 +30,8 @@ Here are some ideas to get you started:
 ## ⚡Awards
   - 2022.10 AI 프로그래밍 경진대회 우수상(주제 : 사물 multi-classification)
   - 2023.10 AI 프로그래밍 경진대회 우수상(주제 : Fake-Image Detection)
-  - 2024.01 AI 프로그래밍 경진대회 장려상(wnwp : Generated Voice detection)
   - 2023.10 2023 충청권 대학 창업 경진대회 장려상
+  - 2024.01 AI 프로그래밍 경진대회 장려상(wnwp : Generated Voice detection)
   - 2025.07 2025 KOREATECH CSE TECH DAY 우수 작품상
     
 ## 📎Papers
