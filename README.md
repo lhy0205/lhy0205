@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## Certificate 
-  - Toeic 
+  - Toeic 785
     
 ## 📝Careers
   - 2021.06 GDD Lab
