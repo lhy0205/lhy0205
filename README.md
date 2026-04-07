@@ -19,13 +19,16 @@ Here are some ideas to get you started:
   - Toeic 785
     
 ## 📝Careers
-  - 2021.06 GDD Lab
+  - 2021.06 GDD Lab (반도체 소자 연구실)
   - 2022.03 ~ 2023.11 Iturtle Lab
   - 2023.06 SW중심대학 공동해커톤 2023
   - 2024.02 ~ 2024.09 DICE Lab 
   - 2024.08 LG Aimers 5기 수료
   - 2025.02 LG Aimers 6기 수료
   - 2025.07 2025 SW중심대학 디지털 경진대회
+  - 2025.08 LG Aimers 7기 수료
+  - 2026.02 LG Aimers 8기 수료
+
     
 ## ⚡Awards
   - 2022.10 AI 프로그래밍 경진대회 우수상(주제 : 사물 multi-classification)
@@ -33,6 +36,8 @@ Here are some ideas to get you started:
   - 2023.10 2023 충청권 대학 창업 경진대회 장려상
   - 2024.01 AI 프로그래밍 경진대회 장려상(wnwp : Generated Voice detection)
   - 2025.07 2025 KOREATECH CSE TECH DAY 우수 작품상
+  - 2025.12 한국철도공사 내일로 해커톤 우수상
+  - 2026 대전충남 초광역 창업역량 강화캠프 대상
     
 ## 📎Papers
   - 데이터 종류별 옵티마이저에 따른 정확도 비교 분석
