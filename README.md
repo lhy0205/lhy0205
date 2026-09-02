@@ -1,6 +1,5 @@
 ## Hi there 👋
-  - 2021 호서대학교 입학
-  - 2024 한국기술교육대학교 편입
+
 <!--
 **lhy0205/lhy0205** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
